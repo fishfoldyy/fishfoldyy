@@ -4,9 +4,9 @@
 <p>i am very proud of figuring out html/css/js! find my personal website at <a href=https://fishfoldyy.github.io/site/>https://fishfoldyy.github.io/site</a>.</p>
 <p>ive also done python discord bots and basic javascript things. i have the most skill at python, but im not all that good. i learn about new things every time i try to do something new!</p>
 
-```html preview-story
-
-  Hello world!
-  Click me!
-
+<button id="button">click me</button>
+```
+  document.getElementById('shortcuts').addEventListener('click', function() {
+  window.location.href = "google.com";
+});
 ```
